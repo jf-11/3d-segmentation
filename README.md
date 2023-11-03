@@ -41,11 +41,6 @@ Clone the repo:
 git clone https://https://github.com/jf-11/3d-segmentation.git
 ```
 
-Install the required packages:
-```
-pip install -r requirements.txt
-```
-
 ### Prerequisites
 
 - Place your folder with the data into the root folder (should be named `data`)
