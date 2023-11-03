@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/>
 </p>
 
-<img width="274" alt="logo" src="logo.jpg">
+<img width="274" alt="logo" src="logo.png">
 
 ## About
 This repository contains a pipeline for medical image segmentation. The `pipeline` folder consists out of three core modules. The file `preprocessing.py` takes care of the preparation of the training data. It takes 3D images and slices them into 2D slices. Further two *csv files* are generated containing paths to training, validation and test data.
