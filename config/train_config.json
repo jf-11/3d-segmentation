@@ -1,0 +1,20 @@
+{
+    "name": "",
+    "csv_files": "../csv_files",
+    "model": "unet1024",
+    "x": 256,
+    "y": 256,
+    "compute_class_weights": 0,
+    "in_channels": 1,
+    "out_channels": 7,
+    "optimizer": "adam",
+    "learning_rate": 1e-3,
+    "min_lr": 1e-7,
+    "batch_size": 64,
+    "epochs": 35,
+    "val_set_index": 4,
+    "save_path": "models/unet1024/",
+    "loss": "scce",
+    "metric": "meaniou",
+    "augmentations": ""
+}

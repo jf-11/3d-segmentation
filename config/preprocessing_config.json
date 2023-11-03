@@ -1,0 +1,6 @@
+{
+    "data_path": "../data/",
+    "output_path": "../preprocessed_data/",
+    "k_folds": 5,
+    "test_set_size": 6
+}

@@ -1,0 +1,9 @@
+{
+    "path_to_model": "../models/",
+    "csv_files": "../csv_files",
+    "x": 256,
+    "y": 256,
+    "in_channels": 1,
+    "out_channels": 7,
+    "file_ending": ".nii.gz"
+}
