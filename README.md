@@ -18,7 +18,18 @@ The implemented model is a Unet inspired by [Olaf Ronneberger, Philipp Fischer, 
 
 ## Required packages
 
-<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/><img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white"/><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/><img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/><img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/><img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/><img src="https://img.shields.io/badge/json-f0dd67?style=for-the-badge&logo=json&logoColor=black"/><img src="https://img.shields.io/badge/tqdm-0998eb?style=for-the-badge&logo=tqdm"/<img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"/><img src="https://img.shields.io/badge/Nibabel-45dfed?style=for-the-badge"/><img src="https://img.shields.io/badge/os-677075?style=for-the-badge"/><img src="https://img.shields.io/badge/sys-3d4042?style=for-the-badge"/><img src="https://img.shields.io/badge/time-6e5258?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/><img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white"/>
+<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/json-f0dd67?style=for-the-badge&logo=json&logoColor=black"/>
+<img src="https://img.shields.io/badge/tqdm-0998eb?style=for-the-badge&logo=tqdm"/>
+<img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
+<img src="https://img.shields.io/badge/Nibabel-45dfed?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/os-677075?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/sys-3d4042?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/time-6e5258?style=for-the-badge"/>
 
 ## Getting started
 
