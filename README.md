@@ -1,4 +1,4 @@
-# 3D Segmentation of organs using deep learning
+# 3D Medical Image Segmentation
 
 <p>
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
